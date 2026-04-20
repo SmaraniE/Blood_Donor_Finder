@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=E53935&center=true&vCenter=true&width=700&lines=🩸+Community+Blood+Donor+Finder;Connecting+Lives+Through+Technology;Save+Lives+%7C+Find+Donors+%7C+Act+Fast" alt="Typing SVG" />
@@ -793,5 +794,4 @@ If this project helped you or inspired you, show your support! 💖
 *Made with ❤️ and React · Powered by ⚡ Vite · Designed to Save Lives 🩸*
 
 </div>
-#   B l o o d _ D o n o r _ F i n d e r  
- 
+```
