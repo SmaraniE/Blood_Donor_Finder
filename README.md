@@ -730,18 +730,29 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
 <div align="center">
 
 ### 🚀 Built with Passion & Purpose
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Smarani+Ekkaladevi;Professional+Competitive+Programmer+💻;React+Developer+⚛️+%7C+Problem+Solver+🧠;Full+Stack+Enthusiast+🚀" alt="Author Typing SVG" />
+
+<br/>
+
 | | |
 |:---:|:---|
-| 🧑‍💻 | **Full Stack React Developer** |
-| 💡 | **Problem Solver** |
-| ❤️ | **Social Impact Builder** |
-| 🎯 | **UX-First Thinker** |
+| 🏆 | **Smarani Ekkaladevi** |
+| 💻 | **Professional Competitive Programmer** |
+| ⚛️ | **React Developer** |
+| 🧠 | **Problem Solver** |
+| 🚀 | **Full Stack Enthusiast** |
+| ❤️ | **Social Impact Builder — Code for Good** |
+
+<br/>
+
+![GitHub followers](https://img.shields.io/github/followers/SMARANI?style=for-the-badge&logo=github&color=E53935)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Growing%20🚀-E53935?style=for-the-badge)
 
 </div>
 
